@@ -1,31 +1,13 @@
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+*.class
+bin/
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-#Image Samples
+# Image Samples
 test_image/
+*.jpg
+*.bmp
+*.png
+
+# Eclipse
+.project
+.classpath
